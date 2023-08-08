@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cricket_tournament_simulation", "Cricket_tournament_simulation.pyproj", "{86A76EA4-2149-43CD-A4F7-9D396C20C689}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A76EA4-2149-43CD-A4F7-9D396C20C689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A76EA4-2149-43CD-A4F7-9D396C20C689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBAA88EB-18A0-4AF9-8CE8-AFF16E74B1E5}
+	EndGlobalSection
+EndGlobal
