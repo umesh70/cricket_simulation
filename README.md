@@ -5,12 +5,12 @@ between two teams with multiple features including player attributes,team select
 
 # Features
 
-Player Class: Represents a cricket player with attributes such as bowling, batting, fielding, running, and experience.  <br>
-Team Class: Represents a cricket team with methods for selecting captains, next players, and bowlers.    <br>
-Field Class: Represents the field conditions with attributes like size, fan ratio, pitch conditions, and home advantage.  <br>
-Umpire Class: Represents the umpire with methods to update scores, wickets, and overs, and predict ball outcomes.    <br>
-Commentator Class: Provides commentary on the match, describing ball outcomes, game information, and match results.    <br>
-Match Class: Manages the cricket match, handling innings, gameplay, and match outcome.    <br>
+**Player Class**: Represents a cricket player with attributes such as bowling, batting, fielding, running, and experience.  <br>
+**Team Class:** Represents a cricket team with methods for selecting captains, next players, and bowlers.    <br>
+**Field Class:** Represents the field conditions with attributes like size, fan ratio, pitch conditions, and home advantage.  <br>
+**Umpire Class:** Represents the umpire with methods to update scores, wickets, and overs, and predict ball outcomes.    <br>
+**Commentator Class:** Provides commentary on the match, describing ball outcomes, game information, and match results.    <br>
+**Match Class:*** Manages the cricket match, handling innings, gameplay, and match outcome.    <br>
 
 # Usage
 
